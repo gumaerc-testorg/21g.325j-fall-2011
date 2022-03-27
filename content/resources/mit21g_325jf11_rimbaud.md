@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 resourcetype: Document
 title: Une saison en enfer
 uid: 221848bf-b874-86da-89cd-1b7bbe186ff2

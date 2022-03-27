@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 resourcetype: Document
 title: 'La religieuse '
 uid: 7430499d-f126-8f71-c8f6-c81950a4d31c

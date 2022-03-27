@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 resourcetype: Document
 title: Sodome et Gomorrhe, vol. 1
 uid: 7e81cc12-f59e-c1ef-1ba0-6ff06c86d1f8

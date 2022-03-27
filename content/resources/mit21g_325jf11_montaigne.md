@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 resourcetype: Document
 title: "De l\u2019amiti\xE9"
 uid: 2bd6e397-b305-1ea5-42c0-d78422e33c1f

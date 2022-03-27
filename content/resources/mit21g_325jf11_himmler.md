@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 resourcetype: Document
 title: "Discours \xE0 un groupe d\u2019officiers SS"
 uid: 5211ce84-6c10-ea83-0043-fedc0b10cd09
