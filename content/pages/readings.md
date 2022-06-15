@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assigned readings for the course and a list
+  of additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -54,7 +56,7 @@ La race maudite
 {{< tdopen >}}
 
 
-Proust, Marcel. Extract from [_Sodome et Gomorrhe_, vol. 1 (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_proust).
+Proust, Marcel. Extract from {{% resource_link 7e81cc12-f59e-c1ef-1ba0-6ff06c86d1f8 "_Sodome et Gomorrhe_, vol. 1 (PDF)" %}}.
 
 Foucault, Michel. _Histoire de la sexualité I, La Volonté de savoir_. Paris, éd. Gallimard, 1976, pp. 58–9. \[Preview with [Google Books](http://books.google.com/books?id=vpRIZtOdROkC&lpg=PA54&pg=PA54#v=onepage&q&f=false)\].
 
@@ -78,7 +80,7 @@ Wittig, Monique. "La Pensée straight." _Questions Féministes,_ no. 7 (février
 
 De Beauvoir, Simone. "Chapitre IV : La lesbienne." In _Le Deuxième Sexe_. Gallimard, 1976. ISBN: 9782070323524.
 
-Himmler, Heinrich. "[Discours à un groupe d'officiers SS (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_himmler)." Bad Tölz, 18 février, 1937.
+Himmler, Heinrich. "{{% resource_link 5211ce84-6c10-ea83-0043-fedc0b10cd09 "Discours à un groupe d'officiers SS (PDF)" %}}." Bad Tölz, 18 février, 1937.
 
 
 {{< tdclose >}}
@@ -120,9 +122,9 @@ Les amitiés particulières
 {{< tdopen >}}
 
 
-De Montaigne, Michel. "[De l'amitié (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_montaigne)." _Les Essais,_ 1580.
+De Montaigne, Michel. "{{% resource_link 2bd6e397-b305-1ea5-42c0-d78422e33c1f "De l'amitié (PDF)" %}}." _Les Essais,_ 1580.
 
-De Balzac, Honoré. [_La cousine Bethe_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_balzac). 1846.
+De Balzac, Honoré. {{% resource_link cf5db580-36fe-8307-dddd-aaf89c31451b "_La cousine Bethe_ (PDF)" %}}. 1846.
 
 Foucault, Michel. "[De l'amitié comme mode de vie](http://1libertaire.free.fr/MFoucault174.html)." Entretien avec R. de Ceccaty, J. Danet et J. Le Bitoux. _Gai Pied_, no. 25 (avril 1981) : 38–9.
 
@@ -140,7 +142,7 @@ Les hétérotopies
 {{< tdopen >}}
 
 
-Diderot, Denis. [_La religieuse_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_diderot). Buisson, 1796.
+Diderot, Denis. {{% resource_link 7430499d-f126-8f71-c8f6-c81950a4d31c "_La religieuse_ (PDF)" %}}. Buisson, 1796.
 
 Film : [_Les Demoiselles de Rochefort_](http://www.allocine.fr/film/fichefilm_gen_cfilm=479.html). Directed by Jacques Demy, Agnès Varda. 124 min. 1967.
 
@@ -160,7 +162,7 @@ Drôle de familles !
 
 Genet, Jean. _Notre-Dame-des-Fleurs_. Gallimard, 1998, pp. 95–7. ISBN: 9782070751471.
 
-Rimbaud, Arthur. [_Une saison en enfer_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_rimbaud). 1873.
+Rimbaud, Arthur. {{% resource_link 221848bf-b874-86da-89cd-1b7bbe186ff2 "_Une saison en enfer_ (PDF)" %}}. 1873.
 
 Film : [_Le Temps qui reste_](http://www.allocine.fr/film/fichefilm_gen_cfilm=57856.html). Directed by François Ozon. 85 min. 2005.
 

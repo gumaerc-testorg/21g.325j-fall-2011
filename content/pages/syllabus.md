@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading policy, and the schedule of topics, readings, and questions covered
+  during each class session. The schedule is written in French.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

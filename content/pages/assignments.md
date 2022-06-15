@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the oral presentations, short-answer
+  papers, and essays required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: aba4eedd-0e1e-2b08-d77c-de0705156935
 ---
 
-Apart from doing the weekly [readings]({{< baseurl >}}/pages/readings), students will complete three types of assignments for the class:
+Apart from doing the weekly {{% resource_link f10b182e-3590-185d-3bd8-7c56c4f5d1b0 "readings" %}}, students will complete three types of assignments for the class:
 
 *   **Oral presentation****:** Students are required to present on the weekly theme for one session (they will choose which session they will present upon on the first day of class). Presentations will be given either individually or in pairs and should be limited to 10 to 20 minutes maximum. During the presentation, students will be required to speak to the class rather than read a pre-written text.
   
