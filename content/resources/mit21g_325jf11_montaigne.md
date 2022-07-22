@@ -6,6 +6,7 @@ file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/2bd6e397b30
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "De l\u2019amiti\xE9"
 uid: 2bd6e397-b305-1ea5-42c0-d78422e33c1f
 ---
 This resource contains the information regarding de l’amitié.
-

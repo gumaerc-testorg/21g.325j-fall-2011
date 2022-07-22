@@ -5,6 +5,7 @@ file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/221848bfb87
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Une saison en enfer
 uid: 221848bf-b874-86da-89cd-1b7bbe186ff2
 ---
 This resource contains the information regarding une saison en enfer.
-

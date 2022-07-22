@@ -6,6 +6,7 @@ file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/5211ce846c1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Discours \xE0 un groupe d\u2019officiers SS"
 uid: 5211ce84-6c10-ea83-0043-fedc0b10cd09
 ---
 This resource contains the information regarding discours à un groupe d’officiers SS.
-

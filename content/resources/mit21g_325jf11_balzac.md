@@ -5,6 +5,7 @@ file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/cf5db58036f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: La cousine Bethe
 uid: cf5db580-36fe-8307-dddd-aaf89c31451b
 ---
 This resource contains the information regarding la cousine bethe.
-
