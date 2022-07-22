@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading policy, and the schedule of topics, readings, and questions covered
+  during each class session. The schedule is written in French.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 59b082cd-0416-a38e-f7d9-44801b256cab
 ---
@@ -76,7 +81,7 @@ Queer est un terme anglophone. Il désigne, sous la forme de l'injure, les lesbi
 {{< tdopen colspan="3" >}}
 
 
-**1RE PARTIE : "BIZARRE, VOUS AVEZ DIT BIZARRE ?"**
+**1{{< sup "RE" >}} PARTIE : "BIZARRE, VOUS AVEZ DIT BIZARRE ?"**
 
 Lecture générale:
 
@@ -157,7 +162,7 @@ Film : Valérie Minetto, _Oublier Cheyenne_ (2005)
 {{< tdopen colspan="3" >}}
 
 
-**2E PARTIE : QUEERISER**
+**2{{< sup "E" >}} PARTIE : QUEERISER**
 
 Lecture générale :
 
@@ -236,7 +241,7 @@ Film : François Ozon, _Le Temps qui reste_ (2004)
 {{< tdopen colspan="3" >}}
 
 
-**3E PARTIE : QUE FAIRE AVEC LE QUEER ?**
+**3{{< sup "E" >}} PARTIE : QUE FAIRE AVEC LE QUEER ?**
 
 Lecture générale :
 

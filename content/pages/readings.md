@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the assigned readings for the course and a list
+  of additional readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f10b182e-3590-185d-3bd8-7c56c4f5d1b0
 ---
@@ -36,7 +41,7 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1re Partie : "Bizarre, vous avez dit bizarre ?"  
+**1{{< sup "re" >}} Partie : "Bizarre, vous avez dit bizarre ?"  
 **
 {{< tdclose >}}
 
@@ -51,7 +56,7 @@ La race maudite
 {{< tdopen >}}
 
 
-Proust, Marcel. Extract from [_Sodome et Gomorrhe_, vol. 1 (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_proust).
+Proust, Marcel. Extract from {{% resource_link 7e81cc12-f59e-c1ef-1ba0-6ff06c86d1f8 "_Sodome et Gomorrhe_, vol. 1 (PDF)" %}}.
 
 Foucault, Michel. _Histoire de la sexualité I, La Volonté de savoir_. Paris, éd. Gallimard, 1976, pp. 58–9. \[Preview with [Google Books](http://books.google.com/books?id=vpRIZtOdROkC&lpg=PA54&pg=PA54#v=onepage&q&f=false)\].
 
@@ -75,7 +80,7 @@ Wittig, Monique. "La Pensée straight." _Questions Féministes,_ no. 7 (février
 
 De Beauvoir, Simone. "Chapitre IV : La lesbienne." In _Le Deuxième Sexe_. Gallimard, 1976. ISBN: 9782070323524.
 
-Himmler, Heinrich. "[Discours à un groupe d'officiers SS (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_himmler)." Bad Tölz, 18 février, 1937.
+Himmler, Heinrich. "{{% resource_link 5211ce84-6c10-ea83-0043-fedc0b10cd09 "Discours à un groupe d'officiers SS (PDF)" %}}." Bad Tölz, 18 février, 1937.
 
 
 {{< tdclose >}}
@@ -103,7 +108,7 @@ Film : _[Oublier Cheyenne](http://www.allocine.fr/film/fichefilm_gen_cfilm=6088
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2e Partie : Queeriser**
+**2{{< sup "e" >}} Partie : Queeriser**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,9 +122,9 @@ Les amitiés particulières
 {{< tdopen >}}
 
 
-De Montaigne, Michel. "[De l'amitié (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_montaigne)." _Les Essais,_ 1580.
+De Montaigne, Michel. "{{% resource_link 2bd6e397-b305-1ea5-42c0-d78422e33c1f "De l'amitié (PDF)" %}}." _Les Essais,_ 1580.
 
-De Balzac, Honoré. [_La cousine Bethe_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_balzac). 1846.
+De Balzac, Honoré. {{% resource_link cf5db580-36fe-8307-dddd-aaf89c31451b "_La cousine Bethe_ (PDF)" %}}. 1846.
 
 Foucault, Michel. "[De l'amitié comme mode de vie](http://1libertaire.free.fr/MFoucault174.html)." Entretien avec R. de Ceccaty, J. Danet et J. Le Bitoux. _Gai Pied_, no. 25 (avril 1981) : 38–9.
 
@@ -137,7 +142,7 @@ Les hétérotopies
 {{< tdopen >}}
 
 
-Diderot, Denis. [_La religieuse_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_diderot). Buisson, 1796.
+Diderot, Denis. {{% resource_link 7430499d-f126-8f71-c8f6-c81950a4d31c "_La religieuse_ (PDF)" %}}. Buisson, 1796.
 
 Film : [_Les Demoiselles de Rochefort_](http://www.allocine.fr/film/fichefilm_gen_cfilm=479.html). Directed by Jacques Demy, Agnès Varda. 124 min. 1967.
 
@@ -157,7 +162,7 @@ Drôle de familles !
 
 Genet, Jean. _Notre-Dame-des-Fleurs_. Gallimard, 1998, pp. 95–7. ISBN: 9782070751471.
 
-Rimbaud, Arthur. [_Une saison en enfer_ (PDF)]({{< baseurl >}}/resources/mit21g_325jf11_rimbaud). 1873.
+Rimbaud, Arthur. {{% resource_link 221848bf-b874-86da-89cd-1b7bbe186ff2 "_Une saison en enfer_ (PDF)" %}}. 1873.
 
 Film : [_Le Temps qui reste_](http://www.allocine.fr/film/fichefilm_gen_cfilm=57856.html). Directed by François Ozon. 85 min. 2005.
 
@@ -167,7 +172,7 @@ Film : [_Le Temps qui reste_](http://www.allocine.fr/film/fichefilm_gen_cfilm=5
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3e Partie : Que faire avec le queer ?**
+**3{{< sup "e" >}} Partie : Que faire avec le queer ?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,13 +275,13 @@ Ouvrages pour préparer les exposés et réponses courtes :
 
 Ouvrages fondateurs de "la théorie queer" aux États-Unis :
 
-*   Butler, Judith. _Trouble dans le genre (Gender Trouble) : Pour un féminisme de la subversion_. La Découverte, 2005. ISBN: 9782707142375. \[1re édition américaine, 1990\].
-*   De Lauretis, Teresa. _Théorie queer et cultures populaires : De Foucault à Cronenberg_. La Dispute, 2007. ISBN: 9782843031137. \[1re édition américaine, 1987-1990\].
-*   Sedgewick, Eve Kosofsky. _Épistémologie du placard_. Amsterdam, 2008. ISBN: 9782354800031. \[1re édition américaine, 1990\].
+*   Butler, Judith. _Trouble dans le genre (Gender Trouble) : Pour un féminisme de la subversion_. La Découverte, 2005. ISBN: 9782707142375. \[1{{< sup "re" >}} édition américaine, 1990\].
+*   De Lauretis, Teresa. _Théorie queer et cultures populaires : De Foucault à Cronenberg_. La Dispute, 2007. ISBN: 9782843031137. \[1{{< sup "re" >}} édition américaine, 1987-1990\].
+*   Sedgewick, Eve Kosofsky. _Épistémologie du placard_. Amsterdam, 2008. ISBN: 9782354800031. \[1{{< sup "re" >}} édition américaine, 1990\].
 
 Théories queer en France :
 
-*   Bersani, Leo. _Homos : Repenser l’identité._ Odile Jacob, 1998. ISBN: 9782738106100. \[Preview with [Google Books](http://books.google.com/books?id=3c-1b_V2JQsC&printsec=frontcover)\] \[1re édition américaine, 1995\].
+*   Bersani, Leo. _Homos : Repenser l’identité._ Odile Jacob, 1998. ISBN: 9782738106100. \[Preview with [Google Books](http://books.google.com/books?id=3c-1b_V2JQsC&printsec=frontcover)\] \[1{{< sup "re" >}} édition américaine, 1995\].
 *   Marie-Hélène, Bourcier. _Queer zones : Politiques des identités sexuelles, des représentations et des saviors_. Balland, 2001. ISBN: 9782715813601.
 *   ———. _Sexpolitiques : Queer zones 2_. La Fabrique éditions, 2005. ISBN: 9782913372443.
 *   ———. _Queer zones III : Identités, Cultures, Politiques_. Éd. Amsterdam, 2011. ISBN: 9782354800970.
@@ -286,14 +291,14 @@ Théories queer en France :
 *   ———. _Une Morale du minoritaire : Variations sur un thème de Jean Genet (Histoire de la pensée)_. Fayard, 2001. ISBN: 9782213609188.
 *   ———. _Retour à Reims_. Fayard, 2009. ISBN: 9782213638348.
 *   ———. _De la subversion : Droit, norme et politique_. Cartouche, 2010. ISBN: 9782915842661.
-*   Halperin, David M. _Saint Foucault_. EPEL, 2000. ISBN: 9782908855517. \[1re édition, 1995\].
-*   Hocquenghem, Guy. _Le Désir homosexual_. Fayard, 2000. ISBN: 9782213606330. \[1re édition, 1972\].
-*   Ladenson, Elisabeth. _Proust's Lesbianism_. Cornell University Press, 2007. ISBN: 9780801473500. \[1re édition américaine, 1999\].
+*   Halperin, David M. _Saint Foucault_. EPEL, 2000. ISBN: 9782908855517. \[1{{< sup "re" >}} édition, 1995\].
+*   Hocquenghem, Guy. _Le Désir homosexual_. Fayard, 2000. ISBN: 9782213606330. \[1{{< sup "re" >}} édition, 1972\].
+*   Ladenson, Elisabeth. _Proust's Lesbianism_. Cornell University Press, 2007. ISBN: 9780801473500. \[1{{< sup "re" >}} édition américaine, 1999\].
 *   Lebrun-Cordier, Pascal, and Robert Harvey. _Rue dEscartes, numéro 40 : Queer, repenser les identités_. Presses Universitaires de France, 2003. ISBN: 9782130534877.
 *   Lucey, Michael, David M. Halperin, and Leo Bersani. _Conférences Litter, Strasbourg 2003_. EPEL, 2005. ISBN: 9782908855869.
 *   Preciado, Beatriz. _Le Manifeste contrasexuel_. Balland, 2000. ISBN: 9782715812635.
 *   Prokhoris, Sabine. _Le Sexe prescrit : La Différence sexuelle en question_. Flammarion, 2002. ISBN: 9782080800381.
-*   Sartre, Jean-Paul. _Saint Genet : Comédien Et Martyre_. Gallimard, 1996. ISBN: 9782070227235. \[1re édition, 1952\].
+*   Sartre, Jean-Paul. _Saint Genet : Comédien Et Martyre_. Gallimard, 1996. ISBN: 9782070227235. \[1{{< sup "re" >}} édition, 1952\].
 *   Schehr, Lawrence L. (dir.). _Aimez-vous le queer ?. CRIN, n°44_. Rodopi, 2005. ISBN: 9789042018969.
 
 Histoire des cultures et mouvements homosexuels en France :
@@ -306,7 +311,7 @@ Histoire des cultures et mouvements homosexuels en France :
 
 Non traduits :
 
-*   Sedgwick, Eve Kosofsky. _Between Men: Male Homosocial Desire and English Literature._ Columbia University Press, 1998. ISBN: 9780231082730. \[1re édition américaine, 1985\].
+*   Sedgwick, Eve Kosofsky. _Between Men: Male Homosocial Desire and English Literature._ Columbia University Press, 1998. ISBN: 9780231082730. \[1{{< sup "re" >}} édition américaine, 1985\].
 *   Rees-Roberts, Nick. _French Queer Cinema_. Edinburgh University Press, 2009. ISBN: 9780748634187.
 *   Warner, Michael. _Fear Of A Queer Planet: Queer Politics and Social Theory_. University of Minnesota Press, 1993. ISBN: 9780816623341. \[Preview with [Google Books](http://books.google.com/books?id=S58X00tIM6oC&printsec=frontcover)\]
 
