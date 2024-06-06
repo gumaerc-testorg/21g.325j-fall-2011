@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding sodome et gomorrhe,
   vol. 1.
 file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/7e81cc12f59ec1ef1ba06ff06c86d1f8_MIT21G_325JF11_Proust.pdf
+file_size: 98219
 file_type: application/pdf
 learning_resource_types:
 - Readings

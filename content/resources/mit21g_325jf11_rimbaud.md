@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding une saison en enfer.
 file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/221848bfb87486da89cd1b7bbe186ff2_MIT21G_325JF11_Rimbaud.pdf
+file_size: 93177
 file_type: application/pdf
 learning_resource_types:
 - Readings
