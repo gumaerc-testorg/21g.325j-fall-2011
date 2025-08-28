@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding discours \xE0 un groupe\
   \ d\u2019officiers SS."
-file: /courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/5211ce846c10ea830043fedc0b10cd09_MIT21G_325JF11_Himmler.pdf
+file: /ol-ocw-studio-app/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/5211ce846c10ea830043fedc0b10cd09_MIT21G_325JF11_Himmler.pdf
 file_size: 122904
 file_type: application/pdf
 learning_resource_types:
