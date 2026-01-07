@@ -34,7 +34,7 @@ La race maudite
 
 Proust, Marcel. Extract from {{% resource_link "7e81cc12-f59e-c1ef-1ba0-6ff06c86d1f8" "*Sodome et Gomorrhe*, vol. 1 (PDF)" %}}.
 
-Foucault, Michel. *Histoire de la sexualité I, La Volonté de savoir*. Paris, éd. Gallimard, 1976, pp. 58–9. \[Preview with {{% resource_link "8ab4f174-d240-44b3-aee9-73e653fbddb6" "Google Books" %}}\].
+Foucault, Michel. *Histoire de la sexualité I, La Volonté de savoir*. Paris, éd. Gallimard, 1976, pp. 58–9. \[Preview with [Google Books](http://books.google.com/books?id=vpRIZtOdROkC&lpg=PA54&pg=PA54#v=onepage&q&f=false)\].
 
 Eribon, Didier. *Réflexions sur la question gay*. Fayard, 1999, pp. 95–6. ISBN: 9782213600987.
 
@@ -58,9 +58,9 @@ Paranoïa et authenticité
 
 Colette. *Le Pur et l'impur*. Le Livre de Poche, 2003, p.71 and p. 119. ISBN: 9782253046394.
 
-Sartre, Jean-Paul. {{% resource_link "75b8a05a-fda5-476d-8140-3604bccc5c88" "*L'être et le néant : essai d'ontologie phénoménologique*" %}}. Gallimard, 1976, pp. 100–1.
+Sartre, Jean-Paul. [*L'être et le néant : essai d'ontologie phénoménologique*](http://www.franceculture.fr/oeuvre-l-etre-et-le-neant-essai-d-ontologie-phenomenologique-de-jean-paul-sartre.html). Gallimard, 1976, pp. 100–1.
 
-Film : {{% resource_link "5ac57e21-5c30-40af-9b39-74aa74b17531" "*Oublier Cheyenne*" %}}. Directed by Valérie Mitetto. 90 min. 2006.
+Film : [*Oublier Cheyenne*](http://www.allocine.fr/film/fichefilm_gen_cfilm=60882.html). Directed by Valérie Mitetto. 90 min. 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **2**{{< sup "e" >}} **Partie : Queeriser**
@@ -74,7 +74,7 @@ De Montaigne, Michel. "{{% resource_link "2bd6e397-b305-1ea5-42c0-d78422e33c1f" 
 
 De Balzac, Honoré. {{% resource_link "cf5db580-36fe-8307-dddd-aaf89c31451b" "*La cousine Bethe* (PDF)" %}}. 1846.
 
-Foucault, Michel. "{{% resource_link "127b0ae1-55c7-4270-82bc-c06c08495b81" "De l'amitié comme mode de vie" %}}." Entretien avec R. de Ceccaty, J. Danet et J. Le Bitoux. *Gai Pied*, no. 25 (avril 1981) : 38–9.
+Foucault, Michel. "[De l'amitié comme mode de vie](http://1libertaire.free.fr/MFoucault174.html)." Entretien avec R. de Ceccaty, J. Danet et J. Le Bitoux. *Gai Pied*, no. 25 (avril 1981) : 38–9.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -84,7 +84,7 @@ Les hétérotopies
 
 Diderot, Denis. {{% resource_link "7430499d-f126-8f71-c8f6-c81950a4d31c" "*La religieuse* (PDF)" %}}. Buisson, 1796.
 
-Film : {{% resource_link "b5509f23-53d3-44c3-827b-08fbabb66f40" "*Les Demoiselles de Rochefort*" %}}. Directed by Jacques Demy, Agnès Varda. 124 min. 1967.
+Film : [*Les Demoiselles de Rochefort*](http://www.allocine.fr/film/fichefilm_gen_cfilm=479.html). Directed by Jacques Demy, Agnès Varda. 124 min. 1967.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -96,7 +96,7 @@ Genet, Jean. *Notre-Dame-des-Fleurs*. Gallimard, 1998, pp. 95–7. ISBN: 9782070
 
 Rimbaud, Arthur. {{% resource_link "221848bf-b874-86da-89cd-1b7bbe186ff2" "*Une saison en enfer* (PDF)" %}}. 1873.
 
-Film : {{% resource_link "0cc4b908-5306-4a9b-9de6-cea26f44b2b1" "*Le Temps qui reste*" %}}. Directed by François Ozon. 85 min. 2005.
+Film : [*Le Temps qui reste*](http://www.allocine.fr/film/fichefilm_gen_cfilm=57856.html). Directed by François Ozon. 85 min. 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **3**{{< sup "e" >}} **Partie : Que faire avec le queer ?**
@@ -112,11 +112,11 @@ Homosexualité et révolution
 La lutte contre les discriminations et la conjugalité
 {{< tdclose >}}{{< tdopen >}}
 
-Bachelot-Narquin, Roselyne. {{% resource_link "3871881a-dab9-4737-b3af-e0c7dc35521c" "Assemblée Nationale – 3e séance du 7 novembre 1998" %}}.
+Bachelot-Narquin, Roselyne. [Assemblée Nationale – 3e séance du 7 novembre 1998](http://www.assemblee-nationale.fr/11/cri/html/19990069.asp#08411).
 
-Badinter, Robert. "{{% resource_link "b419ce2b-c7b6-430a-bcda-2d8444a113f5" "Dépénalisation de l'homosexualité" %}}." Ministre de la Justice, à l'Assemblée nationale, le (1981). Extract as recorded in Perreau, Bruno. *Homosexualité : Dix clés pour comprendre Vingt textes à découvrir.* Editions J'ai lu, Librio, 2005, pp. 62–3. ISBN: 9782290341360.
+Badinter, Robert. "[Dépénalisation de l'homosexualité](http://sexo.paperblog.fr/804069/depenalisation-de-l-homosexualite-robert-badinter-intervention-a-l-assemblee-nationale-le-20-decembre-1981/)." Ministre de la Justice, à l'Assemblée nationale, le (1981). Extract as recorded in Perreau, Bruno. *Homosexualité : Dix clés pour comprendre Vingt textes à découvrir.* Editions J'ai lu, Librio, 2005, pp. 62–3. ISBN: 9782290341360.
 
-"{{% resource_link "3b8b5f83-6f68-4e57-9136-c83275d54b0c" "Manifeste pour l'égalité des droits" %}}." *TÊTU*, 16 mars 2004.
+"[Manifeste pour l'égalité des droits](https://web.archive.org/web/20120103181900/http://www.tetu.com/actualites/france/Manifeste-pour-legalite-des-droits-7943)." *TÊTU*, 16 mars 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -128,7 +128,7 @@ Extrait de Duras, Marguerite. *Les yeux bleus, cheveux noirs*. Éditions de Minu
 
 Guibert, Hervé. *À l'ami qui ne m'a pas sauvé la vie*. Gallimard, 1990, p. 9, p. 53, p. 106. ISBN: 9782070718900.
 
-Film : {{% resource_link "bddd1338-4d5d-40a1-9bf9-f8be63ef73f0" "*Les Témoins*" %}}. Directed by André Téchiné. 103 min. 2007.
+Film : [*Les Témoins*](http://www.youtube.com/watch?v=NNNeqCJrPoM). Directed by André Téchiné. 103 min. 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -136,9 +136,9 @@ Film : {{% resource_link "bddd1338-4d5d-40a1-9bf9-f8be63ef73f0" "*Les Témoins*
 Homonationalisme ?
 {{< tdclose >}}{{< tdopen >}}
 
-Montuelle, Yves. "{{% resource_link "ddc8967d-cc99-40b3-aeea-7447fcf3c142" "L'affiche de la Gay Pride 2011 fait polémique" %}}." *L'Express,* 19 avril 2011.
+Montuelle, Yves. "[L'affiche de la Gay Pride 2011 fait polémique](http://www.lexpress.fr/actualite/societe/l-affiche-de-la-gay-pride-2011-fait-polemique_984468.html)." *L'Express,* 19 avril 2011.
 
-"{{% resource_link "bd207831-c24b-48a6-ba62-56cc3ceb4a17" "Un badge pour le dire : 'mon identité n'est pas nationale.'" %}}" Act Up-Paris et Les Panthères Roses.
+"[Un badge pour le dire : 'mon identité n'est pas nationale.'](https://site-2003-2017.actupparis.org/spip.php?article3879)" Act Up-Paris et Les Panthères Roses.
 
 O., Rachid. *Chocolat chaud.* Gallimard, 1998. ISBN: 9782070753574.
 
@@ -167,7 +167,7 @@ Ouvrages fondateurs de "la théorie queer" aux États-Unis :
 
 Théories queer en France :
 
-- Bersani, Leo. *Homos : Repenser l’identité.* Odile Jacob, 1998. ISBN: 9782738106100. \[Preview with {{% resource_link "0220533f-59ac-43e3-9062-29871830f703" "Google Books" %}}\] \[1{{< sup "re" >}} édition américaine, 1995\].
+- Bersani, Leo. *Homos : Repenser l’identité.* Odile Jacob, 1998. ISBN: 9782738106100. \[Preview with [Google Books](http://books.google.com/books?id=3c-1b_V2JQsC&printsec=frontcover)\] \[1{{< sup "re" >}} édition américaine, 1995\].
 - Marie-Hélène, Bourcier. *Queer zones : Politiques des identités sexuelles, des représentations et des saviors*. Balland, 2001. ISBN: 9782715813601.
 - ———. *Sexpolitiques : Queer zones 2*. La Fabrique éditions, 2005. ISBN: 9782913372443.
 - ———. *Queer zones III : Identités, Cultures, Politiques*. Éd. Amsterdam, 2011. ISBN: 9782354800970.
@@ -199,8 +199,8 @@ Non traduits :
 
 - Sedgwick, Eve Kosofsky. *Between Men: Male Homosocial Desire and English Literature.* Columbia University Press, 1998. ISBN: 9780231082730. \[1{{< sup "re" >}} édition américaine, 1985\].
 - Rees-Roberts, Nick. *French Queer Cinema*. Edinburgh University Press, 2009. ISBN: 9780748634187.
-- Warner, Michael. *Fear Of A Queer Planet: Queer Politics and Social Theory*. University of Minnesota Press, 1993. ISBN: 9780816623341. \[Preview with {{% resource_link "ad042955-d6b5-4c27-a33e-a6b8c5996287" "Google Books" %}}\]
+- Warner, Michael. *Fear Of A Queer Planet: Queer Politics and Social Theory*. University of Minnesota Press, 1993. ISBN: 9780816623341. \[Preview with [Google Books](http://books.google.com/books?id=S58X00tIM6oC&printsec=frontcover)\]
 
 Accès aux revues francophones en ligne (en septembre) :
 
-- {{% resource_link "58514da5-647b-40ae-b871-e7cd570d911a" "Openedition.org Website" %}}
+- [Openedition.org Website](http://www.openedition.org/)
